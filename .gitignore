@@ -4,9 +4,6 @@
 # Pycharm
 .idea/
 
-# VSCode
-.vscode/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -116,5 +113,5 @@ node_modules/
 package-lock.json
 test_tipc/web/models/
 
-# EISeg
-EISeg/eiseg/config/setting.txt
+/data
+/output
